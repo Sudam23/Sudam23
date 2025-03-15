@@ -1,6 +1,6 @@
 ## Hii👋 I am @Sudam23
 ## 🔭 I’m currently working on 
- a NLP related project named "Audiobook Generation and real time Voice Cloning" using Deep learning, Distributed Machine Learning using H2O framework and Sparkling H2O framework and one project named "AI-Based Real-Time Object Detection" using Computer Vision. I am interested in ML, DL, AI and Computer Vision and Distributed Computing.
+ A NLP related project named "Audiobook Generation and real time Voice Cloning" using Deep learning, Distributed Machine Learning using H2O framework and Sparkling H2O framework and one project named "AI-Based Real-Time Object Detection" using Computer Vision. I am interested in ML, DL, AI and Computer Vision and Distributed Computing.
 
 ## 🌱 I’m currently learning 
     1. Deep learning and its application on NLP
