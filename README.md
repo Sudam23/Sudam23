@@ -9,6 +9,7 @@
     4. Time Series and Survival Analysis
     5. Apache Spark and Graph Database
     6. Statistical Hypothesis Testing
+    7. Finance
     
 ## 💬 Ask me about 
     1. Python Programming
@@ -16,13 +17,13 @@
     3. Data Structure and algorithms
     4. Deep learning 
     5. Computer Vision
-    6. Finance 
+    
 
 
 ## 📫 How to reach me: 
-    LinkedIn: www.linkedin.com/in/sudam-39o3982o
-    Email: 2002sudam@gmail.com
-    Github: github.com/Sudam23
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sudam-39o3982o)
+  [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:2002sudam@gmail.com)
+  [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Sudam23)
 
 -⚡ Fun fact: ...
 <!--
