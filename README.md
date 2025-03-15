@@ -25,7 +25,8 @@
   [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:2002sudam@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Sudam23)
 
--⚡ Fun fact: ...
+## ⚡ Fun fact:
+   I like reading story books and watching movies.
 <!--
 **Sudam23/Sudam23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
