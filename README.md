@@ -20,7 +20,7 @@
 
 
 ## 📫 How to reach me: 
-    LinkedIn: [www.linkedin.com/in/sudam-39o3982o]
+    LinkedIn: www.linkedin.com/in/sudam-39o3982o
     Email: 2002sudam@gmail.com
     Github: github.com/Sudam23
 
