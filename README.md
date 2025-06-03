@@ -13,6 +13,9 @@
     5. Apache Spark and Graph Database(Neo4j)
     6. Statistical Hypothesis Testing
     7. Finance(Asset Pricing Models)
+
+## 💞️ Looking to Collaborate On
+    I’m open to collaborations on AI/ML projects, especially in:
     
 ## 💬 Ask me about 
     1. Python Programming
