@@ -3,7 +3,7 @@
     1. A Financial Economics related project named "Comparative Analysis of Asset Pricing Models: CAPM, APT, and Fama-French Factors". 
     2. A NLP related project named "Audiobook Generation and real time Voice Cloning" using Deep learning. I am really interested to collaborate with anyone interested and experienced in NLP related ideas to guide me in this project.
    
-   I am interested in ML, DL, AI and Computer Vision and Distributed Computing.
+   I am interested in ML, DL, AI and Computer Vision, Distributed Computing and also in Finance.
 
 ## 🌱 I’m currently learning 
     1. Deep learning and its application on NLP
