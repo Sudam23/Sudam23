@@ -10,7 +10,7 @@
     2. Computer Vision
     3. Implementation of CNNs and ANNs using Pytorch
     4. Time Series and Survival Analysis
-    5. Apache Spark and Graph Database
+    5. Apache Spark and Graph Database(Neo4j)
     6. Statistical Hypothesis Testing
     7. Finance(Asset Pricing Models)
     
