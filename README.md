@@ -1,8 +1,8 @@
 ## Hii👋 I am @Sudam23
 ## 🔭 I’m currently working on 
-    1. A NLP related project named "Audiobook Generation and real time Voice Cloning" using Deep learning and also "Image Generation using Gaussian Gan" using SPADE.
-    2. Distributed Machine Learning using H2O framework and Sparkling H2O framework. 
-    3. "Vision-Guided Robotic Manipulation: A Computer Vision-Integrated Robotic Arm for Real-World Object Interaction" using Computer Vision with my friend Arnab Singha. 
+    1. A Financial Economics related project named "Comparative Analysis of Asset Pricing Models: CAPM, APT, and Fama-French Factors". 
+    2. A NLP related project named "Audiobook Generation and real time Voice Cloning" using Deep learning. I am really interested to collaborate with anyone interested and experienced in NLP related ideas to guide me in this project.
+   
    I am interested in ML, DL, AI and Computer Vision and Distributed Computing.
 
 ## 🌱 I’m currently learning 
@@ -12,7 +12,7 @@
     4. Time Series and Survival Analysis
     5. Apache Spark and Graph Database
     6. Statistical Hypothesis Testing
-    7. Finance
+    7. Finance(Asset Pricing Models)
     
 ## 💬 Ask me about 
     1. Python Programming
