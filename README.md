@@ -15,7 +15,9 @@
     7. Finance(Asset Pricing Models)
 
 ## 💞️ Looking to Collaborate On
-    I’m open to collaborations on AI/ML projects, especially in:
+I’m open to collaborations on AI/ML projects, especially in:
+    1. Computer Vision
+    2. Deep Learning and it's application in Natural Language Processing
     
 ## 💬 Ask me about 
     1. Python Programming
