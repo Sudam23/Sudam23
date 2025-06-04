@@ -16,8 +16,9 @@
 
 ## 💞️ Looking to Collaborate On
     I’m open to collaborations on AI/ML projects, especially in:
-    1. Computer Vision
-    2. Deep Learning and it's application in Natural Language Processing
+    1. A NLP related project named "Audiobook Generation and real time Voice Cloning" using Deep learning.
+    2. Computer Vision.
+    3. Deep Learning and it's application in Natural Language Processing.
     
 ## 💬 Ask me about 
     1. Python Programming
