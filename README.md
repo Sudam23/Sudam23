@@ -31,7 +31,7 @@
 
 
 ## 📫 How to reach me: 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/sudam-39o3982o)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/kumarsudam23)
   [![Email](https://img.shields.io/badge/Email-red?logo=gmail)](mailto:2002sudam@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/Sudam23)
 
