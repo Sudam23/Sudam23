@@ -1,6 +1,6 @@
 ## Hii👋 I am @Sudam23
 ## 🔭 I’m currently working on 
-    1. A Financial Economics related project named "Comparative Analysis of Asset Pricing Models: CAPM, APT, and Fama-French Factors". 
+    1. 2D Comic Characters Analysis (Segmentation, Pose Estimation, Multi-Panel Correspondence & Domain Adaptation) using Computer Vision techniques.
     2. A NLP related project named "Audiobook Generation and real time Voice Cloning" using Deep learning. I am really interested to collaborate with anyone interested and experienced in NLP related ideas to guide me in this project.
     3. Conditional Image Generation using Gassian Gan.
    
