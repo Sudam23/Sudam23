@@ -5,7 +5,7 @@
     3. A NLP related project named "Audiobook Generation and real time Voice Cloning" using Deep learning. I am really interested to collaborate with anyone interested and experienced in NLP related ideas to guide me in this project.
     
    
-   I am interested in ML, DL, AI and Computer Vision, Distributed Computing and also in Finance.
+   I am interested in ML, DL, AI and Computer Vision, Distributed Computing and also in Finance. 
 
 ## 🌱 I’m currently learning 
     1. Deep learning and its application on NLP
