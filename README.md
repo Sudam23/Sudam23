@@ -1,8 +1,9 @@
 ## Hii👋 I am @Sudam23
 ## 🔭 I’m currently working on 
-    1. 2D Comic Characters Analysis (Segmentation, Pose Estimation, Multi-Panel Correspondence & Domain Adaptation) using Computer Vision techniques.
-    2. A NLP related project named "Audiobook Generation and real time Voice Cloning" using Deep learning. I am really interested to collaborate with anyone interested and experienced in NLP related ideas to guide me in this project.
-    3. Conditional Image Generation using Gassian Gan.
+    1. Projects related on LangChain, LangGraph abnd Agentic AI.
+    2. 2D Comic Characters Analysis (Segmentation, Pose Estimation, Multi-Panel Correspondence & Domain Adaptation) using Computer Vision techniques.
+    3. A NLP related project named "Audiobook Generation and real time Voice Cloning" using Deep learning. I am really interested to collaborate with anyone interested and experienced in NLP related ideas to guide me in this project.
+    
    
    I am interested in ML, DL, AI and Computer Vision, Distributed Computing and also in Finance.
 
@@ -14,6 +15,7 @@
     5. Apache Spark and Graph Database(Neo4j)
     6. Statistical Hypothesis Testing
     7. Finance(Asset Pricing Models)
+    8. LangChain and LangGraph
 
 ## 💞️ Looking to Collaborate On
     I’m open to collaborations on AI/ML projects, especially in:
