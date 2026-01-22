@@ -2,7 +2,7 @@
 ## 🔭 I’m currently working on 
     1. Projects related on the topics: LangChain, LangGraph and Agentic AI.
     2. 2D Comic Characters Analysis (Segmentation, Pose Estimation, Multi-Panel Correspondence & Domain Adaptation) using Computer Vision techniques.
-    3. A NLP related project named "Audiobook Generation and real time Voice Cloning" using Deep learning. I am really interested to collaborate with anyone interested and experienced in NLP related ideas to guide me in this project.
+    3. A NLP related project named "Audiobook Generation and real time Voice Cloning" using Deep learning. I am really interested to collaborate with anyone interested and experienced in NLP related ideas to guide me in this project. 
     
    
    I am interested in ML, DL, AI and Computer Vision, Distributed Computing and also in Finance. 
